@@ -19,7 +19,7 @@ function App() {
             <p className="budget_sentence"> Plan your next major event with us!</p>
             <div className="getstarted_btn">
               <button onClick={() => handleGetStarted()} className="get-started-btn">
-                Get Started
+                Get Started with us
               </button>
             </div>
           </div>
